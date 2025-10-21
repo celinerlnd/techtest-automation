@@ -6,7 +6,7 @@
   "phone": "#string",
   "birthday": "#string",
   "gender": "#string",
-  "addresses": "#object",
+  "address": "#(addressesData)",
   "website": "#string",
   "image": "#string"
 }

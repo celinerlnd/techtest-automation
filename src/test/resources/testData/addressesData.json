@@ -7,6 +7,6 @@
   "zipcode": "#string",
   "country": "#string",
   "country_code": "#string",
-  "latitude": "#double",
-  "longitude": "#double"
+  "latitude": "#number",
+  "longitude": "#number"
 }

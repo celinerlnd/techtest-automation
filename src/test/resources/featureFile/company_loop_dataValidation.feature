@@ -10,6 +10,8 @@ Feature: API Quantity Validation test scenarios
     When method GET
     Then status 200
     And match response.data[*].id != null
+    And match each response.data == companyData
+
 
 
 

@@ -5,10 +5,8 @@
   "vat": "#string",
   "phone": "#string",
   "country": "#string",
-  "addresses": "#array",
-  "addresses[0]": "#object",
+  "addresses": "#[] addressesData",
   "website": "#string",
   "image": "#string",
-  "contact": "#array",
-  "contact[0]": "#object"
+  "contact": "#(contactData)"
 }

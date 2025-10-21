@@ -1,4 +1,4 @@
-package com.cobatest.api;
+package com.automation.api;
 
 import junit.framework.Test;
 import junit.framework.TestCase;

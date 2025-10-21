@@ -1,4 +1,4 @@
-package com.cobatest.api;
+package com.automation.api;
 
 /**
  * Hello world!

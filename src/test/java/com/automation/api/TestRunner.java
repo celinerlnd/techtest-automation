@@ -6,6 +6,6 @@ class TestRunner {
 
     @Karate.Test
     Karate testApi() {
-        return Karate.run("classpath:featureFile/quantity_rowValidation.feature");
+        return Karate.run("classpath:featureFile/company_loop_dataValidation.feature");
     }
 }
